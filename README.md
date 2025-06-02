@@ -18,3 +18,14 @@ This repository is designed for anyone who wants to learn Python effectively, fr
 ## 🗂️ Structure
 
 The repository is structured like this:
+/python-step-by-step/
+├── 01_variables/
+│ ├── notes.md
+│ └── practice_questions.md
+├── 02_data_types/
+│ ├── notes.md
+│ └── practice_questions.md
+├── 03_control_flow/
+│ ├── notes.md
+│ └── practice_questions.md
+...
