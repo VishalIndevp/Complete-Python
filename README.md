@@ -86,7 +86,7 @@ Want to improve this roadmap or add more questions? Pull requests and suggestion
 Connect with me here:
 
 * [GitHub](https://github.com/your-vishalindev)
-* Email: \[vishalsinghomr@gmail.com](vishalsinghomr@gmail.com)]
+* Email: \[vishalsinghomr@gmail.com](vishalondev@gmail.com)]
 
 ---
 
