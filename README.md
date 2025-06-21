@@ -1,31 +1,103 @@
-# Python Step-by-Step Learning Repository
+# Chat With Multiple PDF Documents 📄💬
 
-Welcome to **Python Step-by-Step Learning**! 🚀
-
-This repository is designed for anyone who wants to learn Python effectively, from beginner to intermediate levels. It’s organized in a step-by-step manner, covering important Python topics, concepts, and providing **practice questions** for each topic to reinforce your understanding.
+Welcome to **Chat With Multiple PDF Documents**! This Python project allows you to interactively chat with the contents of multiple PDF files, making it easier to extract insights, summarize information, and ask questions about the documents — all from one place.
 
 ---
 
-## 📚 What’s Included
+## 📚 What’s Included?
 
-✅ **Topic-based structure** — Learn Python in a systematic way, one concept at a time.  
-✅ **Practice questions** — Strengthen your skills with hands-on exercises and questions after each topic.  
-✅ **Answers & Explanations** — Understand the solutions and reasoning behind them.  
-✅ **Easy to follow** — Simple, beginner-friendly explanations for every concept.
+✅ **app.py** — The main application file that implements the chat functionality.
+✅ **requirements.txt** — List of Python dependencies needed to run the application.
 
 ---
 
-## 🗂️ Structure
+## 🗂️ File Structure
 
-The repository is structured like this:
-/python-step-by-step/
-├── 01_variables/
-│ ├── notes.md
-│ └── practice_questions.md
-├── 02_data_types/
-│ ├── notes.md
-│ └── practice_questions.md
-├── 03_control_flow/
-│ ├── notes.md
-│ └── practice_questions.md
-...
+```
+Chat-With-Multiple-PDF-Documents/
+├── app.py
+├── requirements.txt
+├── README.md
+├── venv/                     # (optional) Python virtual environment
+│   ├── Include/
+│   ├── Lib/
+│   ├── Scripts/              # (on Windows)
+│   └── pyvenv.cfg
+```
+
+---
+
+## ✍️ How to Use
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/Chat-With-Multiple-PDF-Documents.git
+   cd Chat-With-Multiple-PDF-Documents
+   ```
+
+2. **(Optional) Create and activate a virtual environment**:
+
+   ```bash
+   python -m venv venv
+   # On Unix/Linux/Mac:
+   source venv/bin/activate
+   # On Windows:
+   venv\Scripts\activate
+   ```
+
+3. **Install dependencies**:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the app**:
+
+   ```bash
+   python app.py
+   ```
+
+5. **Upload and chat with your PDF files!**
+
+---
+
+## 🚀 Features
+
+* **Upload Multiple PDFs** — Load and process multiple documents at once.
+* **Question-Answering** — Ask questions about the content of the PDFs.
+* **Summarization** — Summarize large documents to understand key points quickly.
+* **Easy Setup** — Just run the app and get started.
+
+---
+
+## 🛠️ Technologies Used
+
+* **Python**
+* **PDF Processing Libraries** (e.g., PyPDF2, pdfminer.six)
+* **Natural Language Processing (NLP)** — To extract and answer questions from text.
+
+---
+
+## 🤝 Contributing
+
+Feel free to suggest features, report issues, or open pull requests to make this project even better!
+
+---
+
+## 📧 Contact
+
+Want to collaborate or learn more?
+
+* [GitHub](https://github.com/your-username)
+* Email: \[[your-email@example.com](mailto:your-email@example.com)]
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Happy chatting with your PDFs! 📄💬✨
