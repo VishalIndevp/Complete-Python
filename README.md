@@ -1,6 +1,6 @@
 # Complete Python Step-by-Step Roadmap 🐍📘
 
-Welcome to the **Complete Python Step-by-Step Roadmap**! This repository is built to help you learn Python from the ground up, in a clear and structured way. Each topic includes explanations, code examples, and practice questions — perfect for beginners who want to build a strong foundation.
+Welcome to **Complete Python Step-by-Step Roadmap**! This repository is built to help you learn Python from the ground up, in a clear and structured way. Each topic includes explanations, code examples, and practice questions — perfect for beginners who want to build a strong foundation.
 
 ---
 
@@ -18,24 +18,20 @@ Welcome to the **Complete Python Step-by-Step Roadmap**! This repository is buil
 ```
 Complete-Python-Roadmap/
 ├── 01_variables/
-│   ├── notes.md
-│   └── practice_questions.md
 ├── 02_data_types/
-│   ├── notes.md
-│   └── practice_questions.md
 ├── 03_control_flow/
-│   ├── notes.md
-│   └── practice_questions.md
 ├── 04_functions/
-│   ├── notes.md
-│   └── practice_questions.md
-├── ... (more coming)
+├── 05_loops/
+├── 06-List_And_List_Comprehension_In_Python/
+├── 07-Tuples_In_Python/LearnTuples/
+├── 08-Sets_In_Python/
+├── 09-Dictionaries_In_Python/
 ├── README.md
 ```
 
-Each topic folder contains:
+Each folder contains:
 
-* **notes.md** – Concept explanation and sample code
+* **notes.md** – Concept explanation and sample code (or `.ipynb` notebook)
 * **practice\_questions.md** – Questions to test your understanding
 
 ---
@@ -49,25 +45,25 @@ Each topic folder contains:
    cd Complete-Python-Roadmap
    ```
 
-2. Start with folder `01_variables` and open `notes.md`
+2. Start with `01_variables` and open the `notes.md` or notebook.
 
-3. Read the notes, understand the concepts, then solve the practice questions.
+3. Read the explanation, practice with code, then solve the questions.
 
-4. Go step-by-step through each folder/topic.
+4. Move to the next folder and keep going step-by-step.
 
 ---
 
-## 🧠 Topics Covered
+## 🧠 Topics Covered (So Far)
 
 * ✅ Variables and Data Types
 * ✅ Strings and Operations
-* ✅ Control Flow (if, else, loops)
+* ✅ Control Flow (if, else, elif)
 * ✅ Functions
-* ✅ Lists, Tuples, Sets, Dictionaries
-* ✅ File Handling
-* ✅ Error Handling
-* ✅ Object-Oriented Programming
-* ✅ Modules & Packages
+* ✅ Loops (for, while)
+* ✅ Lists & List Comprehensions
+* ✅ Tuples
+* ✅ Sets
+* ✅ Dictionaries
 * (More coming soon!)
 
 ---
@@ -75,7 +71,7 @@ Each topic folder contains:
 ## 🛠️ Technologies Used
 
 * **Python 3.x**
-* Markdown for notes and questions
+* Markdown / Jupyter Notebooks for content
 
 ---
 
